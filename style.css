@@ -83,7 +83,7 @@ body {
     color: white;
     width: 70%;
     height: 50px;
-    font-size: 20px;
+    font-size: 16px;
     border-radius: 5px;
     text-transform: uppercase;
     cursor: pointer;
@@ -115,6 +115,10 @@ body {
 
     #description {
         margin-bottom: 100px;
+    }
+
+    .add_to_cart_button {
+        font-size: 20px;
     }
 }
 
